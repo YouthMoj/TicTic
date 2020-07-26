@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "451018962553",
+    "firebase_url": "https://youth-moj-short-video-app.firebaseio.com",
+    "project_id": "youth-moj-short-video-app",
+    "storage_bucket": "youth-moj-short-video-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451018962553:android:20c5b12f6f2ba7a46f06a8",
+        "android_client_info": {
+          "package_name": "com.youthmoj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451018962553-600v7j8lpt8bdb92krap6p2h94u29rbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youthmoj",
+            "certificate_hash": "25bacd06b5f300c7cab3169898ffbb6d9c04968a"
+          }
+        },
+        {
+          "client_id": "451018962553-kfnecuo0bk6kuk37gv1861ho2egfs6ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMrULSecwyA4yMOCx3GjDVvaMqRq0Hzfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451018962553-kfnecuo0bk6kuk37gv1861ho2egfs6ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
